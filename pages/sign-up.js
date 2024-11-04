@@ -100,9 +100,6 @@ export default function SignUp() {
             value={email}
             onChangeText={setEmail}
             />
-            <Text style={{flex: 1, textAlign: 'center', fontSize: 20, marginBottom: 20, marginLeft: 10}}>@</Text>
-            <View style={styles.emailDomain}>
-            </View>
         </View>
 
       {/* 인증번호 전송 버튼 */}
