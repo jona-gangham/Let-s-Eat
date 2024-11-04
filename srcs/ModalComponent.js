@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Modal, View, Text, TouchableOpacity, StyleSheet, ScrollView, TextInput } from 'react-native';
 
-const API_KEY = '1140cf83c963d0f27c967b5dd3136a3c';
 
 const ModalComponent = ({ modalVisible, setModalVisible, onSelectUniversity }) => {
   const [universities, setUniversities] = useState([]);
