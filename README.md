@@ -1,4 +1,4 @@
-# LET's Eat 🍽️
+# Let's Eat 🍽️
 ![image](https://github.com/user-attachments/assets/11078051-4fac-4eb1-929c-f53975bfbf0d)
 
 > **혼자 밥 먹는 학생들을 위한, 식사 메이트 매칭 앱**
