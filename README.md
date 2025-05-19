@@ -1,4 +1,5 @@
 # LET's Eat 🍽️
+![image](https://github.com/user-attachments/assets/11078051-4fac-4eb1-929c-f53975bfbf0d)
 
 > **혼자 밥 먹는 학생들을 위한, 식사 메이트 매칭 앱**
 
@@ -29,6 +30,7 @@
 
 ---
 
+
 ## 🎯 주요 기능 (기획 기준)
 - 시간대, 위치, 식사 유형에 따른 사용자 매칭
 - 매너 점수 시스템을 통한 신뢰 기반 매칭
@@ -36,10 +38,6 @@
 - 향후 채팅, 리뷰 기능 도입 가능성 고려
 
 ---
-
-## 📎 기타 자료
-- 프로젝트 발표 자료: `7조 밥먹자 (3).pptx`
-- GitHub Repo: [https://github.com/jona-gangham/Let-s-Eat](https://github.com/jona-gangham/Let-s-Eat)
 
 ---
 
